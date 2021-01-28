@@ -1,2 +1,3 @@
 # react-pwa-starter
-This project is a starter project for creating a modern Progressive Web App (PWA).
+
+This project is a basic starter for creating a modern Progressive Web App (PWA).
